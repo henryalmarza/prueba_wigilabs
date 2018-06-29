@@ -8,7 +8,7 @@ FRONTEND
 - que pinte algo (video de youtube e imagen)
 
 BACKEND
-- api rest en laravel (URI /articulos)
-- soap en laravel (URI /soap)
+- api rest en laravel (GET /articulos)
+- soap en laravel (/soap)
 - base de datos relacional (se usó mysql)
 
